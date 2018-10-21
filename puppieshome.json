@@ -1,0 +1,15 @@
+[
+    {
+        "id" : 12252012,
+        "name" : "Penny",
+        "title" : "Penny",
+        "type" : "Dachshund",
+        "price" : 29999,
+        "description" : "hello hello hello",
+        "moreDescription" : "hello hello hello more more more",
+        "photo_large" : "http://www.raywenderlich.com/downloads/puppies/dachshund.jpeg",
+        "photo_small1" : "http://www.raywenderlich.com/downloads/puppies/dachshund.jpeg",
+        "photo_small2" : "http://www.raywenderlich.com/downloads/puppies/dachshund.jpeg",
+        "photo_small3" : "http://www.raywenderlich.com/downloads/puppies/dachshund.jpeg"
+    }
+]
