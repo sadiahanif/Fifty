@@ -6,27 +6,7 @@
         "type" : "Entertainment",
         "price" : 41,
         "description" : "Adult 41$ Child 24$, This is a fantastic opportunity to get a 50% discount and lots of fun",
-        "moreDescription" : "for the ultimate fun fuelled experience!
-                                Rainbow's End - Unlimited Superpass
-                                Rainbow’s End is New Zealand’s premier destination for the ultimate fun fueled experience!
-                                You’ll be in a whirlwind of excitement as you conquer your choice of over 20 exhilarating rides and attractions in a complete day of FUN ON DEMAND!
-                                The Unlimited Superpass allows you endless access to ANY of their famously fun rides for the WHOLE day! Just remember there will be ride height restrictions so check that out before you come or on the day.
-                                Suitable for the whole family, you’ll have a smorgasbord of unforgettable action-packed entertainment right at your fingertips!
-                                Ranging from the adrenaline pumping rides such as the Fear Fall and the Stratosfear, right through to family-friendly Bumper Boats and Kidz Kingdom - we bet everyone will be grinning ear-to-ear after this chockablock day of fun!
-                                Terms & Conditions
-                                All vouchers are subject to availability and wait times cannot be guaranteed.
-                                Please present printed or smartphone voucher on arrival at the venue
-                                Not valid for night events
-                                Children must be actively supervised by a parent or caregiver at all times
-                                Children under 2 years free with a paying adult
-                                Rides and attractions subject to change without notice - please check the website for ride closures
-                                Height restrictions apply for all rides
-                                Please note: on weekdays outside of school holidays, rides will operate on a timetable
-                                Please note for personal safety Rainbow's End does not allow pregnant women on rides
-                                No refunds or cashback unless required by law
-                                No extensions
-                                Not to be used with other offers, including family discount offers
-",
+        "moreDescription" : "for the ultimate fun fuelled experience",
         "photo_large" : "https://github.com/sadiahanif/Fifty/blob/master/P1-LargeImage.png",
         "photo_small1" : "https://github.com/sadiahanif/Fifty/blob/master/P1-SmallImage1.png",
         "photo_small2" : "https://github.com/sadiahanif/Fifty/blob/master/P1-SmallImage2.png",
