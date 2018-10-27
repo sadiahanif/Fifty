@@ -14,41 +14,15 @@
     },
       {
         "id" : 12252012,
-        "name" : "Rainbow's End Pass",
-        "title" : "Rainbow's End - Unlimited Superpass",
-        "type" : "Entertainment",
-        "price" : 4199,
-        "description" : "Adult 41$ Child 24$, This is a fantastic opportunity to get a 50% discount and lots of fun",
-        "moreDescription" : "for the ultimate fun fuelled experience",
-        "photo_large" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44566096_278341032810328_2517019065030017024_n.jpg?_nc_cat=106&_nc_ht=scontent-syd2-1.xx&oh=121214ab913ef3cf74ff88f84fbc246f&oe=5C52337C",
-        "photo_small1" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44387219_278341066143658_3743425535926075392_n.jpg?_nc_cat=106&_nc_ht=scontent-syd2-1.xx&oh=49ee221d27dabce62a70d1f20e1932de&oe=5C59007E",
-        "photo_small2" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44478114_278341096143655_9150030659912204288_n.jpg?_nc_cat=101&_nc_ht=scontent-syd2-1.xx&oh=05589721795be287112471f7198c2936&oe=5C4B200A",
-        "photo_small3" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44478114_278341096143655_9150030659912204288_n.jpg?_nc_cat=101&_nc_ht=scontent-syd2-1.xx&oh=05589721795be287112471f7198c2936&oe=5C4B200A"
-    },
-       {
-        "id" : 12252012,
-        "name" : "Rainbow's End Pass",
-        "title" : "Rainbow's End - Unlimited Superpass",
-        "type" : "Entertainment",
-        "price" : 4199,
-        "description" : "Adult 41$ Child 24$, This is a fantastic opportunity to get a 50% discount and lots of fun",
-        "moreDescription" : "for the ultimate fun fuelled experience",
-        "photo_large" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44566096_278341032810328_2517019065030017024_n.jpg?_nc_cat=106&_nc_ht=scontent-syd2-1.xx&oh=121214ab913ef3cf74ff88f84fbc246f&oe=5C52337C",
-        "photo_small1" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44387219_278341066143658_3743425535926075392_n.jpg?_nc_cat=106&_nc_ht=scontent-syd2-1.xx&oh=49ee221d27dabce62a70d1f20e1932de&oe=5C59007E",
-        "photo_small2" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44478114_278341096143655_9150030659912204288_n.jpg?_nc_cat=101&_nc_ht=scontent-syd2-1.xx&oh=05589721795be287112471f7198c2936&oe=5C4B200A",
-        "photo_small3" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44478114_278341096143655_9150030659912204288_n.jpg?_nc_cat=101&_nc_ht=scontent-syd2-1.xx&oh=05589721795be287112471f7198c2936&oe=5C4B200A"
-    },
-       {
-        "id" : 12252012,
-        "name" : "Rainbow's End Pass",
-        "title" : "Rainbow's End - Unlimited Superpass",
-        "type" : "Entertainment",
-        "price" : 4199,
-        "description" : "Adult 41$ Child 24$, This is a fantastic opportunity to get a 50% discount and lots of fun",
-        "moreDescription" : "for the ultimate fun fuelled experience",
-        "photo_large" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44566096_278341032810328_2517019065030017024_n.jpg?_nc_cat=106&_nc_ht=scontent-syd2-1.xx&oh=121214ab913ef3cf74ff88f84fbc246f&oe=5C52337C",
-        "photo_small1" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44387219_278341066143658_3743425535926075392_n.jpg?_nc_cat=106&_nc_ht=scontent-syd2-1.xx&oh=49ee221d27dabce62a70d1f20e1932de&oe=5C59007E",
-        "photo_small2" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44478114_278341096143655_9150030659912204288_n.jpg?_nc_cat=101&_nc_ht=scontent-syd2-1.xx&oh=05589721795be287112471f7198c2936&oe=5C4B200A",
-        "photo_small3" : "https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/44478114_278341096143655_9150030659912204288_n.jpg?_nc_cat=101&_nc_ht=scontent-syd2-1.xx&oh=05589721795be287112471f7198c2936&oe=5C4B200A"
+        "name" : "Kaimilan",
+        "title" : "Kaimilan white Shirt",
+        "type" : "Dress",
+        "price" : 3199,
+        "description" : "Material: 100% Polyester Colour: White",
+        "moreDescription" : "Available sizes Medium and Large",
+        "photo_large" : "https://tinyurl.com/y8qwmdpt",
+        "photo_small1" : "https://tinyurl.com/y8qwmdpt",
+        "photo_small2" : "https://tinyurl.com/y8qwmdpt",
+        "photo_small3" : "https://tinyurl.com/y8qwmdpt"
     }
 ]
