@@ -37,5 +37,18 @@
         "photo_small1" : "https://tinyurl.com/y9nf23of",
         "photo_small2" : "https://tinyurl.com/y9nf23of",
         "photo_small3" : "https://tinyurl.com/y9nf23of"
+    },
+    {
+        "id" : 12252015,
+        "name" : "Girl's Dress - Red",
+        "title" : "Girl's Cute Dress - Red",
+        "type" : "Dress",
+        "price" : 9420,
+        "description" : "",
+        "moreDescription" : "",
+        "photo_large" : "https://tinyurl.com/y9ynsvvx",
+        "photo_small1" : "https://tinyurl.com/y9ynsvvx",
+        "photo_small2" : "https://tinyurl.com/y9ynsvvx",
+        "photo_small3" : "https://tinyurl.com/y9ynsvvx"
     }
 ]
